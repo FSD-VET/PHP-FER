@@ -41,6 +41,17 @@
         ?>
     
     <p>
+    
+    <p>
+        <?php
+
+            $nome = "vanessa"; //para declarar variavel se utiliza $
+            
+            echo 'O nome é: ' .$nome;
+
+        ?>
+    
+    <p>
 
    
 
